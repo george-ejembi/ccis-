@@ -50,7 +50,7 @@ right retention action — *before* the customer is gone.
                                                              └─────────────────┘
 ```
 
-Full diagram and design rationale: [`docs/architecture.md`](docs/architecture.md).
+Full diagram and design rationale: [`docs/architecture.md`](docs/ccis-architecture.md).
 
 ## Technology
 
