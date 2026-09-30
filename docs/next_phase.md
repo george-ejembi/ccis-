@@ -27,7 +27,7 @@ Roadmap for the project. Update as items are completed.
 - [x] README finalized with screenshots and results
 - [x] GitHub push
 
-## Next Up (After Portfolio Polish)
+## Next Up
 
 ### Near-term
 
