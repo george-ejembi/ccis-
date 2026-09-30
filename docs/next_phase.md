@@ -22,7 +22,7 @@ Roadmap for the project. Update as items are completed.
 - [x] Idempotency verified (double-run produces identical output)
 - [x] 10 data quality assertions in tests/quality_checks.sql
 - [x] BI read-only role for Power BI connection
-- [x] Power BI dashboard (3 pages + title page)
+- [x] Power BI dashboard
 - [x] Screenshots exported to docs/screenshots/
 - [x] README finalized with screenshots and results
 - [x] GitHub push
