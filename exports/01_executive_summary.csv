@@ -1,0 +1,4 @@
+risk_level,customers,avg_score,monthly_exposure,annual_exposure
+LOW RISK,345,31.74,37413.11,448957.32
+HIGH RISK,103,92.33,9384.34,112612.08
+MEDIUM RISK,52,57.48,5699.62,68395.44
